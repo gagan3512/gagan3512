@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--<img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif" align="right" width="400">-->
 <!--<img src="https://media.giphy.com/media/l1J3WARPMiHPd8ZFK/giphy.gif" align="right" width="450">-->
 
-- 🔭 I’m currently working on **Data Structures & Algorithms**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 Enthusiast for **Data Structure & Algorithm**
 
 - 💬 Ask me about **anything, I am happy to help.**
 
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 ## Github Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan3512&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan3512&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## Github Streaks:
+<!--## Github Streaks:
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3512&hide_border=true" />
 </a>
 ##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan3512&label=Profile%20views&color=0e75b6&style=flat" alt="gagan3512" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan3512&label=Profile%20views&color=0e75b6&style=flat" alt="gagan3512" /> </p>-->
