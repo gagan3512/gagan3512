@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/gagan3512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gagan3512" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gagan-tuli-a30868187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gagan3512" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gagan1825_cse18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gagan3512" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/gagan_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shivam1432" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
